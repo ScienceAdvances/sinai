@@ -1,7 +1,8 @@
-# IDEs
 .idea/
-
+._
+.DS_Store
+config/_default/._
+content/._
 # Hugo
-/resources/
-public/
 assets/jsconfig.json
+.gitignore
